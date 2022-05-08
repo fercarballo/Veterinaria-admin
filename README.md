@@ -1,13 +1,13 @@
 # Practicas React
 ___
-## Creacion de un simple administrador de citas de una veterinaria🐕🐈
+## 🐕Creación de un simple administrador de citas de una veterinaria🐈
 
-## _se utilizo algunas herramientas como:_
+## _se utilizó algunos agregados como::_
 
 - *UUIDV4* 
 - *skeleton* 
 
-## El mismo puede verse a traves de GitHub Pages🙂
+## El mismo puede verse a través de Vercel🙂
 
 [Ingresar]
 
